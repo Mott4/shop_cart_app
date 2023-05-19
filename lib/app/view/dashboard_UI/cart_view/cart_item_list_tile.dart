@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shop_cart_app/app/config/controllers/cart_controller.dart';
 import 'package:shop_cart_app/app/model/item_model.dart';
-import 'package:shop_cart_app/app/shared/widgets/show_dialog_message.dart';
 import 'package:shop_cart_app/app/utils/extensions.dart';
 import 'package:shop_cart_app/app/view/dashboard_UI/cart_view/components/show_dialog_form.dart';
+import 'package:shop_cart_app/app/view/dashboard_UI/cart_view/components/show_dialog_message.dart';
 
 class CartItemWidget extends StatefulWidget {
   final int index;
