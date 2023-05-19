@@ -1,16 +1,15 @@
-# shop_cart_app
+# Olá, seja bem vindo.👋
 
-A new Flutter project.
+# Projeto
+💻 Projeto Teste proposto pela empresa Strawti.
 
-## Getting Started
+# Foco
+😊 Este projeto é focado no desenvolvimento de um App de "Carrinho" para que você consiga adicionar seus produtos, poder editar-los,
+remove-los da lista e conseguir ver o valor real abaixo da tela.
 
-This project is a starting point for a Flutter application.
+# Strawti 😉
 
-A few resources to get you started if this is your first Flutter project:
+* Stwawti na internet: https://www.strawti.com/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Imagens 📷
+Neste momento, eu não possuo imagens, no entanto, em breve irei disponibilizar.
